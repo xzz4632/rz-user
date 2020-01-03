@@ -1,3 +1,4 @@
 server:
   port: 8002
-foo:dev
+
+foo: dev
